@@ -1,4 +1,4 @@
-package com.comp301.lec07inheritance;
+package com.comp301.lec07;
 
 import static org.junit.Assert.assertTrue;
 

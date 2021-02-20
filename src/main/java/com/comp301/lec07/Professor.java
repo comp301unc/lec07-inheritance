@@ -1,4 +1,4 @@
-package com.comp301.lec07inheritance;
+package com.comp301.lec07;
 
 class Professor extends Person {
   private int status;

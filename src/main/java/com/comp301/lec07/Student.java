@@ -1,4 +1,4 @@
-package com.comp301.lec07inheritance;
+package com.comp301.lec07;
 
 public class Student extends Person {
   private int credits;
